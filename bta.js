@@ -9,6 +9,8 @@
 // ==/UserScript==
 
 (function() {
-    jQuery(".msg :contains(bta1)").parent().hide();
-    jQuery(jQuery.find("[class*=xabre]")).hide();
+    jQuery(".msg :contains(bta1)").parent().hide(); // troll
+    jQuery(jQuery.find("[class*=xabre]")).hide(); //ads
+    jQuery('body > style:nth-child(3)').remove(); //background ads
+    jQuery('body > a').remove(); // background ads link
 })();
