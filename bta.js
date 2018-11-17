@@ -10,4 +10,5 @@
 
 (function() {
     jQuery(".msg :contains(bta1)").parent().hide();
+    jQuery(jQuery.find("[class*=xabre]")).hide();
 })();
