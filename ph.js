@@ -6,6 +6,8 @@
 // @author       You
 // @match        https://prohardver.hu/*
 // @match        https://itcafe.hu/*
+// @match        https://mobilarena.hu/*
+// @match        https://logout.hu/*
 // @grant        none
 // ==/UserScript==
 
