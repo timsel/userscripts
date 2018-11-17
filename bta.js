@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://prohardver.hu/tema/*
+// @match        https://prohardver.hu/*
 // @grant        none
 // ==/UserScript==
 
