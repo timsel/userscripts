@@ -8,6 +8,7 @@
 // @match        https://itcafe.hu/*
 // @match        https://mobilarena.hu/*
 // @match        https://logout.hu/*
+// @match        https://gamepod.hu/*
 // @grant        none
 // ==/UserScript==
 
